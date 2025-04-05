@@ -1,0 +1,141 @@
+**ArtFlux Website – AI Design Instruction & Layout**
+
+**Objective:**
+Create a 2D animated and aesthetically immersive storytelling platform combining elements from webtoon, web novel, and Pinterest. The design should be smooth, highly interactive, and genre-focused with high discoverability and creative collaboration features.
+
+---
+
+### 1. **General Aesthetic & Theme**
+- **Overall Theme:** Fusion of Webtoon, Web Novel, and Pinterest visual styles.
+- **Design Language:** 2D animation-based transitions, parallax scrolling, card-based content blocks, light and dark mode toggle.
+- **Colors:** Soft pastel backgrounds with bold accent colors (deep purple, mint, coral, midnight blue).
+- **Typography:** Rounded sans-serif fonts for UI, stylized handwritten or comic fonts for titles.
+- **UX Tone:** Inviting, creative, smooth transitions, mobile-first responsive design.
+
+---
+
+### 2. **Pages & Layout Instructions**
+
+#### 1️⃣ **Home Page**
+- **Hero Section**
+  - Centered animated logo (2D SVG animation).
+  - Tagline: "Create, Inspire, and Immerse in the Next-Gen Digital Universe."
+  - CTA Button: "Explore Now" – bouncy hover animation.
+
+- **Main Features** (Horizontal Scroller / Tabs)
+  - **Read:** Access to webtoons and novels.
+  - **Create:** Collaboration tools.
+  - **Explore:** Discovery of trends.
+  - **Monetize:** Ways to earn.
+
+- **Trending & Popular** (Card Grid)
+  - Grid of top webtoons, novels, art.
+  - Hover effect: shows title, stats, creator avatar.
+
+- **Top Picks For You** (AI-driven carousel)
+  - Personalized scroll list with cards.
+
+- **Genres Section** (10–12 genres)
+  - Fantasy, Sci-Fi, Romance, Slice of Life, Action, Comedy, Drama, Mystery, Thriller, Historical, Horror, Adventure.
+
+- **Footer**
+  - Quick links, social media icons, email signup.
+
+---
+
+#### 2️⃣ **Read Page** (Webtoon/Web Novel Library)
+- **Library View:** Grid/List toggle UI.
+- **Categories:** Trending, New, Staff Picks, Community Favorites.
+- **Each Item Card:** Cover, Title, Genre, Author, Likes.
+
+- **Reader View:**
+  - Scroll or swipe-based reading.
+  - Dark/Light mode switch.
+  - Text-to-speech option.
+  - Like, Comment, Share, Save buttons.
+
+- **Smart Recommendations:** Sidebar or popup with similar content.
+
+---
+
+#### 3️⃣ **Create Page** (Content Creation Hub)
+- **Sections:**
+  - Co-Writing Area: Real-time shared script editor.
+  - Artboards: Pinterest-style pinning and drawing.
+  - Video Studio: Upload/AI-generated videos.
+
+- **Collab Tools:**
+  - Split view, AI script assistant, version history.
+  - AI tools: Prompt-based drawing, text-to-panel generator.
+
+- **Portfolio Space:**
+  - Creator dashboard with followers, works, analytics.
+
+---
+
+#### 4️⃣ **Explore Page** (Discovery Hub)
+- **Grid View:** Infinite scroll gallery.
+- **Hover Effects:** Pin, Like, Save, Comment.
+- **Filters:** Genre, Popularity, Date, AI-Powered Suggestions.
+- **Featured Creators** section.
+
+---
+
+#### 5️⃣ **Monetization Page**
+- **Earning Methods:**
+  - NFT collectibles.
+  - Subscriptions.
+  - Tipping.
+
+- **Dashboard:**
+  - Graphs for earnings.
+  - Stripe/Crypto/PayPal integration.
+  - Marketplace preview.
+
+---
+
+#### 6️⃣ **About Page**
+- Mission, Vision, Roadmap.
+- Meet the Team: Bikshipt Khuntia (Founder & Developer).
+- Timeline of Feature Releases.
+
+---
+
+#### 7️⃣ **Contact & Support Page**
+- FAQs, support ticket form.
+- Helpdesk for creators.
+- Community Forum preview.
+
+---
+
+### 3. **Additional Sections**
+
+#### **Script Section**
+- Upload/Write original scripts.
+- Collaborative script tools.
+- Script templates, genre tags.
+
+#### **Clothes & Merchandise Section**
+- Creator-based fashion merch.
+- Custom designs from webtoons.
+- Shopify integration.
+
+#### **OSTs, Themes & Songs Section**
+- Official soundtracks for webtoons/novels.
+- Upload and link songs to stories.
+- Audio player, creator playlists.
+
+---
+
+### 4. **Extra Enhancements by AI Suggestion**
+- **AI-Powered Character Builder:** Generate character portraits.
+- **Moodboard Generator:** Based on script/scene input.
+- **Creator Leaderboards:** Top creators by popularity, tips, followers.
+- **Live Events Section:** Creator livestreams, Q&A, premiere episodes.
+- **Story Preview Generator:** AI summarization of episodes in creative preview blocks.
+- **Mobile App Notification Sync:** Personalized alerts.
+
+---
+
+This design should be passed as structured modules to the AI, ensuring responsive performance, optimized loading, and seamless user journeys.
+
