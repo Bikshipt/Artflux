@@ -241,11 +241,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Advanced Analytics Dashboard
 - [ ] NFT Marketplace Integration
 
-## 📞 Support
-
-For support, email support@artflux.com or join our community forum.
-
----
 
 **ArtFlux** - Where creativity meets technology in the next generation of digital storytelling.
 "# Artflux" 
